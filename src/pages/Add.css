@@ -1,0 +1,19 @@
+:root {
+  --primary: 79, 70, 229;
+  --secondary: 139, 92, 246;
+  --accent: 236, 72, 153;
+  --surface: 241, 245, 249;
+  --on-surface: 15, 23, 42;
+  --card: 255, 255, 255;
+  --border: 229, 231, 235;
+}
+
+.dark {
+  --primary: 129, 140, 248;
+  --secondary: 167, 139, 250;
+  --accent: 244, 114, 182;
+  --surface: 15, 23, 42;
+  --on-surface: 241, 245, 249;
+  --card: 30, 41, 59;
+  --border: 55, 65, 81;
+}
